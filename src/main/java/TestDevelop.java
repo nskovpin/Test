@@ -3,7 +3,9 @@
  */
 public class TestDevelop {
 
-    public static void main(String[] args) {
+    private String test ="test";
 
+    public static void main(String[] args) {
+        System.out.println("feature1");
     }
 }
