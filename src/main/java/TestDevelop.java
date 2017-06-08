@@ -12,4 +12,8 @@ public class TestDevelop {
         System.out.println("this is develop");
 
     }
+
+    private void hello(){
+        System.out.println("this is hello");
+    }
 }
